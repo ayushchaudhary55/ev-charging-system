@@ -75,7 +75,7 @@
                   <Font name="System Bold" size="30.0" />
                </font>
             </Label>
-            <Label layoutX="-3.0" layoutY="781.0" prefHeight="27.0" prefWidth="874.0" style="-fx-background-color: GRAY;" text="        This Project is developed by Zeline Labs. || + 918824414850." textFill="#ff843c">
+            <Label layoutX="-3.0" layoutY="781.0" prefHeight="27.0" prefWidth="874.0" style="-fx-background-color: GRAY;" text="        This Project is developed by Ayush Chaudhary Labs. || + 918824414850." textFill="#ff843c">
                <font>
                   <Font name="System Bold" size="18.0" />
                </font>

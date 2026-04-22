@@ -95,7 +95,7 @@ public class Page3ViewController {
     @FXML
     void BookEV(ActionEvent event) {
         java.sql.Connection con;
-        con=Dependies_Zeline.MySQL_Connector.getConnection();
+        con=Dependies_Ayush Chaudhary.MySQL_Connector.getConnection();
         java.sql.PreparedStatement pst,pst2;
         int wait_time_updated=0;
         try {
@@ -139,7 +139,7 @@ public class Page3ViewController {
     @FXML
     void ShowRides(ActionEvent event) {
         java.sql.Connection con;
-        con=Dependies_Zeline.MySQL_Connector.getConnection();
+        con=Dependies_Ayush Chaudhary.MySQL_Connector.getConnection();
         java.sql.PreparedStatement pst;
 
         try {
