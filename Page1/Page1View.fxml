@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="15" alignment="CENTER" xmlns:fx="http://javafx.com/fxml" fx:controller="Page1.Page1ViewController">
+
+    <Label text="EV Charging Station System" style="-fx-font-size: 22px; -fx-font-weight: bold;" />
+
+    <TextField fx:id="username" promptText="Enter Username" />
+    <PasswordField fx:id="password" promptText="Enter Password" />
+
+    <Button text="Admin Login" />
+    <Button text="User Login" />
+
+</VBox>
