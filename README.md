@@ -1,4 +1,4 @@
-# ⚡ EV Charging Station System
+# ⚡ Java-Based EV Charging Station Management System with Web Interface
 
 ## 👨‍💻 Developed By
 **Ayush Chaudhary**
